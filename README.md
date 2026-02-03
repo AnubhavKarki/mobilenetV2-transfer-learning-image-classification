@@ -186,6 +186,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [TensorFlow Team](https://www.tensorflow.org/) for core framework
+- [TensorFlow](https://www.tensorflow.org/) for core framework
 - [Kaggle Dog Breed Dataset](https://www.kaggle.com/c/dog-breed-identification)
 - [Google Colab](https://colab.research.google.com/) for free GPU access
